@@ -1,5 +1,4 @@
 simpleaudio
-pysimplegui==4.*
+FreeSimpleGUI==5.*
 flask
 requests
-
